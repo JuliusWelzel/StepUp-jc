@@ -11,5 +11,8 @@ Each seperate journal club has a subfolder with a README containing the relevant
 ├── jc_150223        <- "A data-driven method to identify frequency boundaries in multichannel  electrophysiology data" - Cohen, 2020
 │   | .                 presented by Julius
 |
+├── jc_150323        <- "Temporal evolution of beta bursts in the parkinsonian cortical and basal ganglia network" - Cagnan, 2019
+│   | .                 presented by Julius
+|
 ├── jc_***                   
 ```
